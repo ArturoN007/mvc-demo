@@ -48,5 +48,5 @@ class Curso{
   public  function listarCursos(){
     return $this -> data;
   }
-}
 
+}
